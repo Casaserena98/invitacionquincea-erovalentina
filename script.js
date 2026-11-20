@@ -26,7 +26,7 @@ musicBtn.addEventListener("click", () => {
 // CUENTA REGRESIVA
 // =========================
 
-const weddingDate = new Date("December 19, 2026 17:00:00").getTime();
+const weddingDate = new Date("December 19, 2026 18:30:00").getTime();
 
 function updateCountdown() {
 
