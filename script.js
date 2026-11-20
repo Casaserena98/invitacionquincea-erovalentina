@@ -37,7 +37,7 @@ function updateCountdown() {
     if (distance <= 0) {
 
         document.getElementById("countdown").innerHTML =
-            "<h3>¡Llegó nuestro gran día! ❤️</h3>";
+            "<h3>¡Llegó mi gran día! ❤️</h3>";
 
         return;
 
